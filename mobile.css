@@ -1,0 +1,19 @@
+@media (max-width: 600px) {
+  body{
+    background-color: green;
+  }
+  .titulo{
+    padding: 2%;
+  }
+  .productos{
+    display: inherit;
+    height: auto;
+  }
+  .producto{
+    margin-top: auto;
+  }
+  .beneficios{
+    display: inherit;
+    height: auto;
+  }
+}
